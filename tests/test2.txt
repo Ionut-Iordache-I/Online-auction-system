@@ -1,0 +1,46 @@
+addAdmin
+addClient fizic Christian-Andrei Crangasi 30.07.1995
+addClient juridic Autostrazi.RO Pantelimon-nr.5 SRL 105.54
+addClient fizic Cristi-Radu Rozelor-nr.2 15.02.1988
+addClient fizic Radu-Mihail Viilor-nr.4 03.04.1993
+addClient juridic Termopane.SA Aleea-Livezilor SA 2500.89
+addClient juridic PavajeNoi Str.Garii SRL 345.67
+addBroker
+addBroker
+addBroker
+addProdus bijuterie colier 115.38 2000 argint smarald
+addProdus bijuterie bratara 123.79 2004 argint perla
+addProdus bijuterie inel 211.58 2008 aur diamant
+addProdus bijuterie agrafa 143.72 1999 argint ametist
+addProdus bijuterie verigheta 98.76 2020 aur smarald
+addProdus bijuterie bratara 87.68 1989 aur zirconiu
+addProdus tablou Natura-Moarta 55.0 1998 Petru-Ardelean ULEI
+addProdus tablou La-Mare 67.0 2000 Laurentiu TEMPERA
+addProdus tablou Lumea"Noua" 78.05 1889 Christian ACRILIC
+addProdus tablou Maramures 89.4 1976 Vianu ULEI
+addProdus tablou Poezie-Vizuala 34.2 1967 Cezar TEMPERA
+addProdus tablou CarmaVeche 45.34 1978 Alejandro ACRILIC
+addProdus tablou Casa.de.piatra 59.8 1988 Crina ULEI
+addProdus mobila masa 54.4 1998 extensibila stejar
+addProdus mobila dulap 67.2 1956 inaltime-reglabila pal
+addProdus mobila canapea 56.5 1978 extensibila sofa
+addProdus mobila canapea 78.9 1967 neextensibila mdf
+addProdus mobila raft 98.3 1988 reglabil lucios
+addProdus mobila noptiera 59.2 1999 reglabila artar
+addProdus mobila comoda 34.5 2008 extensibila sofa
+addProdus bijuterie colier1 115.38 2000 argint smarald
+addProdus bijuterie bratara1 123.79 2004 argint perla
+addProdus bijuterie inel1 211.58 2008 aur diamant
+addProdus bijuterie agrafa1 143.72 1999 argint ametist
+addProdus bijuterie verigheta1 98.76 2020 aur smarald
+addProdus bijuterie bratara1 87.68 1989 aur zirconiu
+addLicitatie 3 1 6
+addLicitatie 2 4 4
+addLicitatie 4 7 3
+addLicitatie 3 11 4
+solicitaProdus 1 1 1000
+solicitaProdus 2 1 1100
+solicitaProdus 3 1 1200
+solicitaProdus 4 4 500
+solicitaProdus 5 4 600
+exit
